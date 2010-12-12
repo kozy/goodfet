@@ -1,0 +1,3 @@
+class ExpertViewController < HotCocoaController
+  
+end
